@@ -1,9 +1,9 @@
 Add data source: 
-http://influxdb:8086
-influxQL
-Database: telegraf
-User: admin
-Password: admin
+- http://influxdb:8086
+- influxQL
+- Database: telegraf
+- User: admin
+- Password: admin
 
 
 Add Dashboards: 
