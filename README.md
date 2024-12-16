@@ -7,8 +7,8 @@ Add data source:
 
 
 Add Dashboards: 
-https://grafana.com/grafana/dashboards/1530-mongodb-monitoring-dashboard/
-https://grafana.com/grafana/dashboards/5063-nginx/
-https://grafana.com/grafana/dashboards/8531-nginx-metrics
-https://grafana.com/grafana/dashboards/3373-elasticsearch/
-https://grafana.com/grafana/dashboards/1150-influxdb-docker/
+- https://grafana.com/grafana/dashboards/1530-mongodb-monitoring-dashboard/
+- https://grafana.com/grafana/dashboards/5063-nginx/
+- https://grafana.com/grafana/dashboards/8531-nginx-metrics
+- https://grafana.com/grafana/dashboards/3373-elasticsearch/
+- https://grafana.com/grafana/dashboards/1150-influxdb-docker/
