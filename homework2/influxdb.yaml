@@ -1,0 +1,15 @@
+apiVersion: 1
+
+datasources:
+  - name: influxdb
+    type: influxdb
+    access: proxy
+    url: http://influxdb:8086
+    isDefault: true
+    database: telegraf        # Specify the database for InfluxQL
+    user: admin               # Username for basic authentication
+    secureJsonData:
+      password: admin         # Password for basic authentication
+    jsonData:
+      httpMode: "GET"         # Required for InfluxQL
+      version: "InfluxQL"     # Specify query language as InfluxQL
